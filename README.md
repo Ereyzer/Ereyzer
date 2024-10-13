@@ -1,18 +1,45 @@
-### Hi there 👋
+<h1>This «thing» is under construction... 👨‍🎨</h1>
 
-**Ereyzer/Ereyzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Ivan
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning LINUX (UBUNTU); Git;
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on **https://github.com/Ereyzer/Ereyzer**
+- 🌱 I’m learning **everything I can get my hands on**
+- 🤔 I’m looking for **interesting projects**
+- 📫 How to reach me: **https://github.com/Ereyzer/Ereyzer.git**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 ### 🛠️ Technologies & Tools
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-[<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/html/html-i.svg" alt="html5" height='42px' /></code>](https://en.wikipedia.org/wiki/HTML 'HTML5')  [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/css/css-i.svg" alt="css3" height='42px' /></code>](https://en.wikipedia.org/wiki/CSS 'CSS3')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/sass/sass-i.svg" alt="sass" height='42px' /></code>](https://sass-lang.com/ 'SASS')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/javascript/javascript-w.svg" alt="JavaScript" height ="42px" /></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript 'Java Script')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/react/react.svg" alt="React" height ="42px" /></code>](https://reactjs.org/ 'React.js')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/redux/redux.svg" alt="Redux" height='42px' /></code>](https://redux.js.org/ 'Redux')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/git-scm/git-i.svg" alt="git" height='42px' /></code>](https://git-scm.com/ 'Git')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/git-hub/github-i.svg" alt="github" height='42px' /></code>](https://github.com/ 'GitHub')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/webpack/webpack-i.svg" alt="webpack" height ="42px" /></code>](https://webpack.js.org 'Webpack')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/figma/figma-i.svg" alt="figma" height='42px' /></code>](https://www.figma.com/ 'Figma')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/netlify/netlify.svg" alt="netlify" height='42px'/></code>](https://www.netlify.com/ 'Netlify')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/vsc/visualstudio.svg" alt="visual studio code" height='42px'/></code>](https://code.visualstudio.com/ 'Visual Studio Code')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/material-ui/material-ui.svg" alt="material-ui" height='42px' /></code>](https://material-ui.com/ 'Material-ui')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/parcel/parceljs-i.svg" alt="parcel" height='42px' /></code>](https://parceljs.org/ 'Parcel')     [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/postman/getpostman.svg" alt="postman" height='42px' /></code>](https://web.postman.com/ 'Postman')     [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/node/nodejs.svg" alt="node" height='42px'/></code>](https://nodejs.org/en/ 'Node.js')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/handlebars/handlebarsjs.svg" alt="handlebars" height='42px' /></code>](https://handlebarsjs.com/ 'Handlebars')   [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/npm/npmjs.svg" alt="npm" height='42px' /></code>](https://www.npmjs.com/ 'NPM')    [<code><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/express/express.svg" alt="express" height='42px' /></code>](http://expressjs.com/ 'Express')
+<img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<!-- <img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> -->
+
+<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<!-- <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
+
+<!-- <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
+
+<!-- <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> -->
+
+<img align="left" alt="Webpack" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
+
+<img align="left" alt="Babel" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
+
+<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="C" width="32px" src="https://github.com/github/explore/blob/0b341b179994dc924e7167743b873e83eda2c093/topics/c/c.png" />
