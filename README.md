@@ -48,4 +48,4 @@
 
 <img align="left" alt="Parcel" width="32px" src="https://github.com/parcel-bundler/parcel/blob/f53f4503799a07e3a01452f5e53ead44c30ebc53/packages/dev/repl/src/assets/parcel.png" />
 
-<img align="left" alt="Parcel" width="32px" src="https://github.com/github/explore/blob/e57e912f6da9d58ef483a667319eca310d7a7128/topics/figma/figma.png" />
+<img align="left" alt="Figma" width="32px" src="https://github.com/github/explore/blob/e57e912f6da9d58ef483a667319eca310d7a7128/topics/figma/figma.png" />
