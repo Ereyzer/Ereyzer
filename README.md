@@ -5,11 +5,12 @@
 - 🔭 I’m currently working on **https://github.com/Ereyzer/Ereyzer**
 - 🌱 I’m learning **everything I can get my hands on**
 - 🤔 I’m looking for **interesting projects**
-- 📫 How to reach me: **https://github.com/Ereyzer/Ereyzer.git**
+- 📫 How to reach me: **https://ivanlavercv.netlify.app/**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 ### 🛠️ Technologies & Tools
+
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <!-- <img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> -->
