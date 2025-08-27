@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Ivan
 
-- 🔭 I’m currently working on **https://github.com/Ereyzer/Ereyzer**
+- 🔭 I’m currently working on **[BURGER HOUSE API](https://github.com/Ereyzer/burger-house-api)**
 - 🌱 I’m learning **everything I can get my hands on**
 - 🤔 I’m looking for **interesting projects**
 - 📫 How to reach me: **https://ivanlavercv.netlify.app/**
